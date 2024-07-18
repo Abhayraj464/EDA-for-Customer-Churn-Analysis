@@ -12,7 +12,7 @@ Data Source : CSV file
 
 Notebook : Jupyter Notebook
 
-Data Visualization : Pandas, Numpy, Seaborn, Matplotlib
+Data Visualization : Pandas, NumPy, Seaborn, Matplotlib
 
 
 ## Key Findings
